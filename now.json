@@ -1,7 +1,6 @@
 {
   "type": "npm",
-  "env": {
-    "NODE_ENV": "production",
-    "API_KEY": "@apiKey"
-  }
+  "files": [
+    "package.json"
+  ]
 }
