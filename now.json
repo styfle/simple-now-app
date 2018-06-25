@@ -2,6 +2,7 @@
   "type": "npm",
   "env": {
     "NODE_ENV": "production",
-    "API_KEY": "@apiKey"
+    "API_KEY": "@apiKey",
+    "DB_URL": "@dbUrl"
   }
 }
