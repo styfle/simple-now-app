@@ -4,5 +4,5 @@
     "NODE_ENV": "production",
     "API_KEY": "@apiKey"
   },
-  "dotenv": ".env.custom"
+  "dotenv": ".env.prod"
 }
